@@ -1,0 +1,47 @@
+20
+Bob
+Sally
+Barbara
+Steve
+Earline
+Marcellus
+Kenton
+Dorthy
+Suellen
+Norwood
+Patrick
+William
+James
+Rutherford
+Selena
+Gomez
+Sara
+Eyles
+Michelle
+Alee
+Bob Sally
+Barbara Sally
+Sally Bob
+Steve Bob
+Bob Steve
+Earline Marcellus
+Marcellus Earline
+Earline Kenton
+Earline Dorthy
+Dorthy Kenton
+Suellen Steve
+Suellen Norwood
+Norwood Suellen
+Patrick James
+William Rutherford
+William Selena
+Selena James
+Selena Sally
+Gomez William
+Gomez Sara
+Gomez Eyles
+Eyles Gomez
+Eyles Alee
+Michelle Sally
+Eyles Michelle
+Michelle Eyles
